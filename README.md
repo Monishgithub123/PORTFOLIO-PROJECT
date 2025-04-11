@@ -39,23 +39,7 @@ Your app should now be running at `http://localhost:3000`.
 
 ---
 
-## 📁 Folder Structure
 
-```
-portfolio/
-├── public/
-├── src/
-│   ├── components/
-│   ├── assets/
-│   ├── App.js
-│   └── index.js
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── README.md
-```
-
----
 
 ## 🎯 Features
 
