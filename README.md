@@ -8,7 +8,8 @@ This is a personal portfolio website built using **React.js** and **Tailwind CSS
 ## 🛠 Tech Stack
 
 - ⚛️ React.js  
-- 🎨 Tailwind CSS  
+- 🎨 Tailwind CSS
+- Framer motion
 - 🧪 Vite / Create React App (depending on setup)
 
 ---
@@ -52,7 +53,7 @@ Your app should now be running at `http://localhost:3000`.
 
 ## 🌍 Live Demo
 
-[View Live](https://your-portfolio-link.com)
+[View Live](https://monish-yedlewar.vercel.app/)
 
 ---
 
