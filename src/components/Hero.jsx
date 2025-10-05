@@ -97,8 +97,8 @@ const ActionButton = ({ href, children }) => (
 // ✅ Corrected Download Button
 const DownloadButton = () => (
   <a
-    href="/Monish Yedlewar Resume.pdf"
-    download="/Monish Yedlewar Resume.pdf"
+    href="/Monish Yedlewar Resume 2025.pdf"
+    download="/Monish Yedlewar Resume 2025.pdf"
     className="bg-gray-800 text-white py-3 px-6 rounded-full shadow-lg hover:bg-gray-700 transition duration-300 ease-in-out transform hover:scale-105"
   >
     Download Resume
