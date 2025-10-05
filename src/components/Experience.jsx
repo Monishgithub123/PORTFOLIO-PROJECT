@@ -2,21 +2,22 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const experiences = [
+ {
+  date: 'May 2025 - Present',
+  title: 'Frontend Developer',
+  company: 'K-lite Education',
+  location: 'New Delhi',
+  description: [
+    'Led the UI/UX design and frontend implementation for AutopilotMyBusiness — a comprehensive business automation platform.',
+    'Built responsive and user-friendly interfaces using React.js, Mantine, and Vanilla CSS, enhancing user satisfaction with a seamless experience across devices.',
+    'Collaborated closely with product and backend teams to integrate key features such as checklists, delegation workflows, MIS reports, and several other advanced modules.'
+  ],
+  technologies: ['MERN Stack', 'Tailwind CSS', 'Bootstrap', 'Mantine', 'Vanilla CSS', 'Git'],
+  isCurrent: true,
+},
+
   {
-    date: 'March 2025 - Present',
-    title: 'Frontend Developer',
-    company: 'Mamo Technolabs',
-    location: 'Remote',
-    companyUrl: 'https://mamotechnolabs.com',
-    description: [
-      'Developing Zodiya using Next.js for astrology predictions.',
-      'Built Buzzingo - brain testing platform with real-time analytics.',
-    ],
-    technologies: ['React', 'Next.js', 'MongoDB', 'Node.js', 'Tailwind CSS'],
-    isCurrent: true,
-  },
-  {
-    date: 'Nov 2024 - Feb 2025',
+    date: 'Nov 2024 - April 2025',
     title: 'Full Stack Developer',
     company: 'GreatHire',
     location: 'Remote',

@@ -43,7 +43,7 @@ const ContactUs = () => {
               <FontAwesomeIcon icon={faMapMarkerAlt} className="text-white text-xl bg-gradient-to-br from-indigo-500 to-purple-500 p-4 rounded-xl shadow-md" />
               <div>
                 <h4 className="text-lg font-semibold">Location</h4>
-                <p className="text-gray-600">Nagpur, Maharashtra - 440015</p>
+                <p className="text-gray-600">New Delhi - India</p>
               </div>
             </div>
             <div className="flex items-center gap-4">

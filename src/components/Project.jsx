@@ -48,6 +48,14 @@ const ProjectsSection = () => {
   const [visibleProjects, setVisibleProjects] = useState(3);
 
   const projects = [
+
+      {
+      title: 'RC Trade Academy',
+      description:
+'RC Trade Academy is a modern online learning platform built with MERN and TypeScript, offering high-quality courses, resources, and tools for traders and finance enthusiasts. With a sleek UI, robust backend, and seamless performance, it’s designed to help users master trading skills in an engaging and efficient way',   
+   backgroundImage: '/rctradelogo.png',
+      githubLink: 'https://rctradeacademy.com/',
+    },
     {
       title: 'Predico-Disease-Prediction-Application',
       description:

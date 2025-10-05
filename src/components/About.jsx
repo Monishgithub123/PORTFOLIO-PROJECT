@@ -53,7 +53,7 @@ const About = () => {
               transition={{ duration: 0.6, delay: 1.0 }}
               className="text-lg text-gray-800 mb-4 leading-relaxed"
             >
-              As a passionate full-stack developer with over 1.5 years of immersive  experience, I excel at creating sleek, user-friendly interfaces using the latest web technologies. My expertise lies in the powerful MERN stack, enabling me to develop dynamic, high-performing web applications.
+              As a passionate full-stack developer with over <strong>2+ years of hands-on experience</strong>, I excel at creating sleek, user-friendly interfaces using the latest web technologies. My expertise lies in the powerful MERN stack, enabling me to develop dynamic, high-performing web applications.
             </motion.p>
             <motion.p
               initial={{ opacity: 0 }}
